@@ -1,0 +1,3 @@
+[submodule "CustomSRP/Project/custom-srp-01-custom-render-pipeline"]
+	path = CustomSRP/Project/custom-srp-01-custom-render-pipeline
+	url = https://bitbucket.org/catlikecodingunitytutorials/custom-srp-01-custom-render-pipeline.git
