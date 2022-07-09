@@ -1,8 +1,8 @@
-SRP/Project/Library/
-SRP/Project/.vs/
-SRP/Project/.vsconfig
+.vs/
+.vsconfig
 *.csproj
 *.sln
-SRP/Project/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
-SRP/Project/obj/
-SRP/Project/Logs/
+obj/
+Logs/
+Library/
+Temp/
