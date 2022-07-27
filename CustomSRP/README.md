@@ -9,6 +9,12 @@
 
 [译文地址](https://zhuanlan.zhihu.com/p/334361243)
 
+参考：
+
+* [PassTags LightMode](https://docs.unity3d.com/Manual/SL-PassTags.html)
+* [Creating a simple render loop in a custom render pipeline](https://docs.unity3d.com/Manual/srp-creating-simple-render-loop.html)
+* [URP ShaderLab Pass](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/urp-shaders/urp-shaderlab-pass-tags.html#urp-pass-tags-lightmode)
+
 **第二篇：Draw Calls（Shaders and Batches）**
 
 **第三篇：方向光（Direct Illumination）**
