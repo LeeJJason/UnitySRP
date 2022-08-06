@@ -1,10 +1,15 @@
-[文档](https://docs.unity3d.com/cn/2019.4/Manual/GPUInstancing.html)
+[GPUInstancing 文档](https://docs.unity3d.com/cn/2019.4/Manual/GPUInstancing.html)
 
+## shader 限制
 
+1. shader 必须包含 `#pragma multi_compile_instancing` 指令
+2. 材质需要启用 **Enable Instancing**
+3. 默认管线自动使用 **Instancing**，SRP 需要 DrawingSettings 设置 enableInstancing
+4. 防止动态合批影响，*关闭*动态合批
 
+## Shader 代码
 
-
-```cg
+```c
 #ifndef MYRP_UNLIT_INCLUDED
 #define MYRP_UNLIT_INCLUDED
 

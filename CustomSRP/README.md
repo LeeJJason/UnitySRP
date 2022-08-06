@@ -17,7 +17,15 @@
 
 **第二篇：Draw Calls（Shaders and Batches）**
 
+[原文地址](https://catlikecoding.com/unity/tutorials/custom-srp/custom-render-pipeline/)
+
+[译文地址](https://zhuanlan.zhihu.com/p/334361243)
+
 **第三篇：方向光（Direct Illumination）**
+
+[原文地址](https://catlikecoding.com/unity/tutorials/custom-srp/directional-lights/)
+
+[译文地址](https://zhuanlan.zhihu.com/p/335664226)
 
 **第四篇：方向阴影（Cascaded Shadow Maps）**
 
@@ -44,3 +52,11 @@
 **第十五篇：粒子（Color and Depth Textures）**
 
 **第十六篇：渲染缩放（Scaling Up and Down）**
+
+
+
+
+
+参考：
+
+[HLSL Tools for Visual Studio Config Generator](https://github.com/hecomi/HLSLToolsForVisualStudioConfigGenerator)
