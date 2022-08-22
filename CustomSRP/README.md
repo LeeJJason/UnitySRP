@@ -29,6 +29,8 @@
 
 **第四篇：方向阴影（Cascaded Shadow Maps）**
 
+[原文地址](https://catlikecoding.com/unity/tutorials/custom-srp/directional-shadows/)
+
 **第五篇：烘焙光（Baked Light）**
 
 **第六篇：阴影遮罩（Shadow Masks）**
