@@ -24,5 +24,4 @@ Light GetDirectionalLight (int index) {
 	light.direction = _DirectionalLightDirections[index].xyz;
 	return light;
 }
-
 #endif
