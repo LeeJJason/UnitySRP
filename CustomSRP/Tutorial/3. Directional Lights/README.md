@@ -2,8 +2,6 @@
 
 [原文地址](https://catlikecoding.com/unity/tutorials/custom-srp/directional-lights/)
 
-[译文地址](https://zhuanlan.zhihu.com/p/335664226)
-
 ## 1. Lighting
 
 如果要创建一个更加真实的场景，我们就需要模拟光和物体表面的交互。这比我们之前制作的不受光的着色器要复杂的多。

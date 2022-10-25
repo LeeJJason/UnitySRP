@@ -2,8 +2,6 @@
 
 [原文地址](https://catlikecoding.com/unity/tutorials/custom-srp/custom-render-pipeline/)
 
-[译文地址](https://zhuanlan.zhihu.com/p/334361243)
-
 - Create a render pipeline asset and instance.
 - Render a camera's view.
 - Perform culling, filtering, and sorting.

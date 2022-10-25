@@ -2,8 +2,6 @@
 
 [原文地址](https://catlikecoding.com/unity/tutorials/custom-srp/draw-calls/)
 
-[译文地址](https://zhuanlan.zhihu.com/p/334775155)
-
 ## 1. Shaders
 
 要绘制物体，CPU需要告诉GPU应该绘制什么和如何绘制。通常我们用Mesh来决定绘制什么。而如何绘制是由着色器控制的，着色器实际上就是一组GPU的指令。除了Mesh之外，着色器还需要很多其他的信息来协同完成它的工作，比如对象的transform矩阵和材质属性等。
